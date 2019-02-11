@@ -1,43 +1,43 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Edith Durand"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Orthophoniste et doctorante en science biomédicale"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Université de Montréal", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "edith.durand@protonmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Aphasie",
+  "Neuroplasticité",
+  "Thérapie sensori-motrice"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD en science biomédicale"
+  institution = "Université de Montréal"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Maîtrise en orthophonie"
+  institution = "Université de Montréal"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
+  course = "Ecole d'orthophonie de Besançon"
   institution = "Massachusetts Institute of Technology"
   year = 2008
 
