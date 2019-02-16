@@ -21,8 +21,8 @@ email = "edith.durand@protonmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Trouble du langage acquis | Aphasie",
-  "Neuroplasticité",
+  "Troubles du langage acquis",
+  "Plasticité cérébrale",
   "Efficacité des interventions",
   "Neuroimageie",
   "Pratique basée sur les données probantes"
@@ -30,19 +30,19 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD en science biomédicale"
-  institution = "Université de Montréal"
-  year = 2019
+  course = "PhD en sciences biomédicales"
+  institution = "Université de Montréal (Canada)"
+  year = "En cours"
 
 [[education.courses]]
-  course = "Maîtrise en orthophonie"
-  institution = "Université de Montréal"
-  year = 2013
+  course = "Maîtrise Pro en orthophonie"
+  institution = "Université de Montréal (Canada)"
+  year = 2011
 
 [[education.courses]]
   course = "Ecole d'orthophonie de Besançon"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  institution = "Université de Franche-Comté (France)"
+  year = 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,22 +52,17 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "#contact"  # For a direct email link, use "mailto:edith.durand@protonmail.com".
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.fr/citations?user=MnAhKxgAAAAJ&hl=fr"
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://researchgate.com/profile/Edith_Durand2"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
