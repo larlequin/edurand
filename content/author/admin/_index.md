@@ -6,7 +6,7 @@ name = "Edith Durand"
 superuser = true
 
 # Role/position
-role = "Orthophoniste et doctorante en science biomédicale"
+role = "Orthophoniste et doctorante en sciences biomédicales"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
